@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin: 2rem;
+}
+
+.section {
+  text-align: left;
+  max-width: 720px;
+  margin: 4rem auto auto;
+}
+
+.verifyTranscript {
+  background-color: #eee; 
+  width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.signTranscript {
+  background-color: #eee; 
+  width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.getRecord {
+  background-color: #eee; 
+  width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.addRecord {
+  background-color: #eee; 
+  width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
