@@ -36,4 +36,4 @@ npm start
 
 Go to `http://localhost:3000` in your browser (Ideally, this url should automatically open in your default browser)
 
-Finally, please follow the instructions provided on the Home page.
+Finally, please follow the instructions provided on the Home page and then on subsequent pages.
