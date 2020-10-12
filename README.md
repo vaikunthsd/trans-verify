@@ -15,7 +15,7 @@ Clone TransVerify Application
 
 ```sh
 https://github.com/vaikunthsd/TransVerify.git
-cd TransVerify
+cd trans-verify
 truffle develop
 migrate --reset
 ```
