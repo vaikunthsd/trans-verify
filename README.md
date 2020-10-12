@@ -15,7 +15,7 @@ Clone TransVerify Application
 
 ```sh
 https://github.com/vaikunthsd/TransVerify.git
-cd smart-contracts
+cd TransVerify
 truffle develop
 migrate --reset
 ```
